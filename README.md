@@ -7,7 +7,7 @@ This project uses Power BI to visualize flight delay data. The dataset includes 
 - Data
 - Contributing
 
-## Installation
+## Installation of PowerBI (you can skip it and download pdf file for the visualization) 
 To use this project, you will need to have Power BI Desktop installed on your computer. You can download it for free from the [Power BI website](https://powerbi.microsoft.com/en-us/desktop/) .
 
 Once you have Power BI Desktop installed, follow these steps:
