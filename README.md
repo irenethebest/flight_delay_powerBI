@@ -1,5 +1,5 @@
 # Flight Delay Visualization with Power BI
-This project uses Power BI to visualize flight delay data. The dataset includes information on flights departing from U.S. airports between 2005 and 2020, and includes data on flight delays, cancellations, and diversions.
+This project uses Power BI to visualize flight delay data. The dataset includes information on flights departing from U.S. airports in 2019, and includes data on flight delays, cancellations, flight operators and weather information.
 
 ## Table of Contents
 - Installation
@@ -29,7 +29,7 @@ A page with a bar chart showing the number of flights, cancellations, and divers
 A page with a table showing the top 10 airports with the most delays.
 
 ## Data
-The flight delay data used in this project was obtained from the Bureau of Transportation Statistics. The data includes information on flights departing from U.S. airports between 2005 and 2020, and includes data on flight delays, cancellations, and diversions.
+The flight delay data used in this project was obtained from the Bureau of Transportation Statistics. The data includes information on flights departing from U.S. airports in 2019, and includes data on flight delays, cancellations, flight operators and weather information. Weather information is derived from weather channel API. The sample data used for the visualization is 10,000 data points per each month, totaling 120,000 data points. 
 
 ## Contributing
 If you'd like to contribute to the project, please follow these guidelines:
